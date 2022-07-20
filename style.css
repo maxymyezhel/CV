@@ -1,1 +1,20 @@
-aside
+body {
+    background-color: dodgerblue;
+}
+
+a {
+    color: pink;
+    text-decoration: none;
+    font-weight: bold;
+}
+h2 {
+    text-transform: uppercase;
+    line-height: 5em;
+}
+
+p {
+    text-align: justify;
+}
+
+font-family: 'Anek Malayalam', sans-serif;
+font-family: 'Mukta', sans-serif;
